@@ -22,7 +22,8 @@ This project was created to develop practical Linux administration skills and bu
 | Bash Scripting | Automating system information collection |
 
 ## Bash Automation Project
-Created 'system-info.sh' to automatically display:
+Created ['system-info.sh'] (bash-scripts/system-info.sh)  to automatically display:
+
     • Current date and time
     • System hostname
     • System uptime and load average
