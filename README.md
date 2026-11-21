@@ -21,8 +21,35 @@ This project was created to develop practical Linux administration skills and bu
 | System Monitoring | Monitoring memory, disk space, uptime and processes |
 | Bash Scripting | Automating system information collection |
 
+## Project Screenshots
+### 1.Users and Groups
+![Users and Groups](screenshots/01-users-and-groups.png)
+
+### 2. File Permissions
+![File Permissions](screenshots/02-file-permissions.png)
+
+### 3. Package Management 
+![Package Management - Part 1](screenshots/03-package-management.png)
+
+![Package Management - Part 2](screenshots/03b-package-management.png)
+
+![Package Management - Part 3](screenshots/03c-package-management.png)
+
+### 4. Service Management
+![Service Management](screenshots/04-service-management.png)
+
+### 5. System Monitoring
+![System Monitoring - Part 1](screenshots/05-system-monitoring.png)
+
+![System Monitoring - Part 2](screenshots/05b-system-monitoring.png)
+### 6. Bash Automation
+![Bash Automation - Part 1](screenshots/06-bash-automation.png)
+
+![Bash Automation - Part 2](screenshots/06b-bash-automation.png)
+
+
 ## Bash Automation Project
-Created ['system-info.sh'] (bash-scripts/system-info.sh)  to automatically display:
+Created [`system-info.sh`](bash-scripts/system-info.sh) to automatically display:
 
     • Current date and time
     • System hostname
